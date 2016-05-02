@@ -33,5 +33,4 @@ class BlockTable extends CoreBlockTable
             'class' => 'text-' . $alignment,
         ];
     }
-
 }
