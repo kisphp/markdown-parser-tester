@@ -11,6 +11,7 @@ class ProjectMarkdownFactory extends MarkdownFactory
         $projectNamespaces = [
             'Project\\ProjectBlocks\\',
             'Project\\ProjectBlocks\\Headers\\',
+            'Project\\ProjectBlocks\\Lists\\',
         ];
 
         $coreNamespaces = parent::getAvailableNamespaces();
