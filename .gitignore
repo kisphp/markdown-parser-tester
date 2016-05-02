@@ -1,0 +1,5 @@
+.idea/
+_vm/
+vendor/
+*.log
+coverage/

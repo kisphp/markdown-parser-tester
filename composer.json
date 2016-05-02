@@ -1,0 +1,19 @@
+{
+  "require": {
+    "php": ">=5.5",
+    "phpunit/phpunit": "4.8.*",
+    "kisphp/markdown-parser": "dev-master",
+    "fabpot/php-cs-fixer": "~1.9",
+    "symfony/var-dumper": "3.0.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Project\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Project\\": "tests/"
+    }
+  }
+}
