@@ -117,16 +117,16 @@
         },
         {
             "name": "kisphp/markdown-parser",
-            "version": "0.6.0",
+            "version": "0.7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kisphp/markdown-parser.git",
-                "reference": "f38d9f0ed83c0b705c9bce284f8ecc4a4b8203fd"
+                "reference": "7bd1f0bf9848412828bd89f91fe4714da7e1cf0b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kisphp/markdown-parser/zipball/f38d9f0ed83c0b705c9bce284f8ecc4a4b8203fd",
-                "reference": "f38d9f0ed83c0b705c9bce284f8ecc4a4b8203fd",
+                "url": "https://api.github.com/repos/kisphp/markdown-parser/zipball/7bd1f0bf9848412828bd89f91fe4714da7e1cf0b",
+                "reference": "7bd1f0bf9848412828bd89f91fe4714da7e1cf0b",
                 "shasum": ""
             },
             "require": {
@@ -161,7 +161,7 @@
                 "markdown",
                 "parser"
             ],
-            "time": "2016-05-05 14:02:15"
+            "time": "2016-05-08 10:59:28"
         },
         {
             "name": "phpdocumentor/reflection-docblock",
