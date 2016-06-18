@@ -113,20 +113,21 @@
                 }
             ],
             "description": "A tool to automatically fix PHP code style",
+            "abandoned": "friendsofphp/php-cs-fixer",
             "time": "2016-02-26 07:37:29"
         },
         {
             "name": "kisphp/markdown-parser",
-            "version": "0.7.0",
+            "version": "0.7.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kisphp/markdown-parser.git",
-                "reference": "7bd1f0bf9848412828bd89f91fe4714da7e1cf0b"
+                "reference": "8d7caa0e8a817c3d26b12f6279091c1daa45eadf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kisphp/markdown-parser/zipball/7bd1f0bf9848412828bd89f91fe4714da7e1cf0b",
-                "reference": "7bd1f0bf9848412828bd89f91fe4714da7e1cf0b",
+                "url": "https://api.github.com/repos/kisphp/markdown-parser/zipball/8d7caa0e8a817c3d26b12f6279091c1daa45eadf",
+                "reference": "8d7caa0e8a817c3d26b12f6279091c1daa45eadf",
                 "shasum": ""
             },
             "require": {
@@ -161,7 +162,7 @@
                 "markdown",
                 "parser"
             ],
-            "time": "2016-05-08 10:59:28"
+            "time": "2016-06-18 20:42:26"
         },
         {
             "name": "phpdocumentor/reflection-docblock",
