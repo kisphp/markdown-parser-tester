@@ -3,7 +3,7 @@
     "php": ">=5.5",
     "phpunit/phpunit": "4.8.*",
     "kisphp/markdown-parser": "~0.6",
-    "fabpot/php-cs-fixer": "~1.9",
+    "friendsofphp/php-cs-fixer": "~1.9",
     "symfony/var-dumper": "3.0.*"
   },
   "autoload": {
